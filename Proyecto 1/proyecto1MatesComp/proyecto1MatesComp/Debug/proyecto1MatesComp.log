@@ -1,0 +1,14 @@
+﻿Build started 02/06/2016 01:14:51 p. m..
+     1>Project "C:\Users\Pablo\Desktop\TEC\Verano 2016\Mates Computacionales\Proyecto 1\proyecto1MatesComp\proyecto1MatesComp\proyecto1MatesComp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\pablo\desktop\tec\verano 2016\mates computacionales\proyecto 1\proyecto1matescomp\proyecto1matescomp\main.cpp(58): warning C4101: 'fin' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Pablo\Desktop\TEC\Verano 2016\Mates Computacionales\Proyecto 1\proyecto1MatesComp\Debug\proyecto1MatesComp.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Pablo\Desktop\TEC\Verano 2016\Mates Computacionales\Proyecto 1\proyecto1MatesComp\Debug\proyecto1MatesComp.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Pablo\Desktop\TEC\Verano 2016\Mates Computacionales\Proyecto 1\proyecto1MatesComp\Debug\proyecto1MatesComp.lib" /MACHINE:X86 Debug\main.obj
+         proyecto1MatesComp.vcxproj -> C:\Users\Pablo\Desktop\TEC\Verano 2016\Mates Computacionales\Proyecto 1\proyecto1MatesComp\Debug\proyecto1MatesComp.exe
+     1>Done Building Project "C:\Users\Pablo\Desktop\TEC\Verano 2016\Mates Computacionales\Proyecto 1\proyecto1MatesComp\proyecto1MatesComp\proyecto1MatesComp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.96
